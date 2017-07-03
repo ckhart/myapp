@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckhart/myapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckhart/myapp/issues"
+  },
+  "homepage": "https://github.com/ckhart/myapp#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
